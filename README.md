@@ -4,17 +4,21 @@ Topic: Node.js
 Outline
 -------
 
--    Node.js philosophy
+-	Node.js philosophy
 	-	Asynchronous
 	-	Streaming
 	-	Modular
 	-	Local Dependencies
 
+-	Commons Patterns
+	-	Flow Control
+	-	Dependency Injection
+
 -	Getting started
-	-	cloud9ide
-	-	nodejitsu
 	-	nvm
 	-	npm
+	-	cloud9ide
+	-	nodejitsu
 
 -	Useful/Interesting Modules
 	-	shelljs
