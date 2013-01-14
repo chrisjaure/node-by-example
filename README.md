@@ -1,14 +1,15 @@
 Topic: Node.js
 ==============
 
+*Note:* Sections 2 and 3 consist of code examples that you can run in your terminal. If you have node installed, run them with `node <filename>`.
+
 Outline
 -------
 
 1.	Getting started
 	a.	nvm
 	b.	npm
-	c.	cloud9ide
-	d.	nodejitsu
+	c.	nodejitsu
 
 2.	Node.js philosophy
 	a.	Asynchronous
