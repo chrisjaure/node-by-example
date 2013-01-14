@@ -7,21 +7,21 @@ Outline
 -------
 
 1.	Getting started
-	a.	nvm
-	b.	npm
-	c.	nodejitsu
+	1.	nvm
+	2.	npm
+	3.	nodejitsu
 
 2.	Node.js philosophy
-	a.	Asynchronous
-	b.	Streaming
-	c.	Modular
-	d.	Local Dependencies
+	1.	Asynchronous
+	2.	Streaming
+	3.	Modular
+	4.	Local Dependencies
 
 3.	Commons Patterns
-	a.	Flow Control
-	b.	Dependency Injection
-	c.	Child Processes
-	d.	Event Emitters
+	1.	Flow Control
+	2.	Dependency Injection
+	3.	Child Processes
+	4.	Event Emitters
 
 4.	Useful/Interesting Modules
 	-	shelljs
