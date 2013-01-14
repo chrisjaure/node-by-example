@@ -10,5 +10,5 @@ http.get('http://cleverchris.com', function(res){
 
 console.log('Continue with other things.');
 for (var i = 0; i < 5; i++) {
-	console.log("other thing");
+	console.log(Array(i+2).join('.'));
 }
